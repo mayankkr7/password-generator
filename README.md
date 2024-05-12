@@ -22,6 +22,7 @@ Welcome to the Password Generator project! This is a user-friendly web applicati
 **React.js:** A powerful JavaScript library for building user interfaces, providing a fast and efficient development environment.
 **Tailwind CSS:** A utility-first CSS framework that enables rapid styling and customization, resulting in a sleek and modern user interface.
 
+
 ### Tools used on this project
 
 - Visual Studio Code
@@ -113,6 +114,7 @@ If you want to contact me, you can reach me through below handles.
 
 
 <br/>
+
 
 ## Show your support
 
