@@ -19,8 +19,8 @@ Welcome to the Password Generator project! This is a user-friendly web applicati
 
 ## Tech Stack
 
-**React.js:** A powerful JavaScript library for building user interfaces, providing a fast and efficient development environment.
-**Tailwind CSS:** A utility-first CSS framework that enables rapid styling and customization, resulting in a sleek and modern user interface.
+- **React.js:** A powerful JavaScript library for building user interfaces, providing a fast and efficient development environment.
+- **Tailwind CSS:** A utility-first CSS framework that enables rapid styling and customization, resulting in a sleek and modern user interface.
 
 
 ### Tools used on this project
