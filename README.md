@@ -2,7 +2,7 @@
 
 ### Overview
 
-Welcome to the Password Generator project! This is a user-friendly web application designed to help you create secure and randomized passwords effortlessly. Built using React.js and styled with Tailwind CSS, this tool offers a seamless experience for generating strong passwords tailored to your preferences.
+This project is a simple web-based password generator built using React.js and styled with Tailwind CSS. It allows users to generate random passwords of varying lengths with options to include numbers and special characters. The generated password can be copied to the clipboard for ease of use.
 
  <h3><a href="https://password-generator-mayankkr7.netlify.app/"><strong>See live preview »</strong></a></h3>
 
@@ -113,7 +113,6 @@ If you want to contact me, you can reach me through below handles.
 </a>
 
 
-<br/>
 
 
 ## Show your support
