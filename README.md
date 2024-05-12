@@ -56,9 +56,8 @@ Using HTTPS
 2. Navigate to the project directory.
 3. Create your first Vite Project.
 4. Setup Install dependencies using npm install.
-5. Obtain an API key from OpenWeatherMap and update the config.js file with your API key.
-6. Run the application using npm run dev.
-7. Access the application in your browser at http://localhost:5173.
+5. Run the application using npm run dev.
+6. Access the application in your browser at http://localhost:5173.
 
 <br />
 
